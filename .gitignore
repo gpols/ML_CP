@@ -1,0 +1,21 @@
+# MacOS
+.DS_Store
+
+# Python folders
+python/models
+python/datasets
+python/generated
+python/scraped-images
+
+# python venv folders
+env
+venv
+.env
+.venv
+
+# Jupyter & python caches
+**/.ipynb_checkpoints
+**/__pycache__
+
+# vim
+*.sw*
